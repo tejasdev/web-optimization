@@ -15,16 +15,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AmitP88/AmitP88.github.io.git"
+    "url": "git+https://github.com/tejasdev/tejasdev.github.io.web-optimization.git"
   },
   "keywords": [
     "grunt",
     "project4"
   ],
-  "author": "amit",
-  "license": "ISC",
+  "author": "Tejas",
+  "license": "CSE",
   "bugs": {
-    "url": "https://github.com/AmitP88/AmitP88.github.io/issues"
+    "url": "https://github.com/tejasdev/tejasdev.github.io.web-optimization/issues"
   },
-  "homepage": "https://github.com/AmitP88/AmitP88.github.io#readme"
+  "homepage": "https://github.com/tejasdev/tejasdev.github.io.web-optimization#readme"
 }
